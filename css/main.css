@@ -1,0 +1,73 @@
+body{
+	background-image: url(../img/kevin-bhagat-445832-unsplash.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}	
+
+main{
+	margin: 3rem;
+}
+h1{  
+	text-align: right;
+	font-size: 4rem;
+  	color: #445626;
+  	letter-spacing: 6px;
+ 	text-transform: uppercase;
+ 	font-family: Merriweather, Serif;
+ 	font-weight: 900;
+    line-height: .5;
+    padding-top: 4.5rem;
+    margin-bottom: 0;
+}	
+
+h2{
+ 	text-align: right;
+ 	font-size: 2.5rem;
+ 	color: black;
+ 	letter-spacing: 2px;
+ 	text-transform: uppercase;
+ 	font-family: 'Open Sans', Sans-serif;
+ 	font-weight: 300;
+ 	line-height: .75;
+ 	border: 0;
+}
+
+h2 span{
+	display: inline-block;
+	padding-bottom: 1rem;
+	padding-left: 4.75rem;
+	border-bottom: 2.5px solid #445626;
+}
+
+main p{ 
+ 	text-align: right;
+ 	font-size: 1rem;
+ 	color: black;
+ 	letter-spacing: 1.5px;
+ 	font-family: Merriweather;
+ 	font-weight: 400;
+ 	line-height: 1.8rem;
+	width: 25%;
+ 	margin-top: 1.75rem;
+ 	float: right;
+} 	
+
+footer p{
+	text-align: left;
+	font-size: 1rem;
+	color: white;
+	font-family: 'Open Sans';
+	font-weight: 300;
+	float: left;
+	margin-top: 36rem;
+	margin-left: .75rem;
+}
+
+rect {
+  height: 50px;
+  width: 400px;
+  background-color: #445626;
+  float: right;
+  margin-top: 36rem;
+}
+
